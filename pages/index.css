@@ -16,10 +16,9 @@
   flex-direction: column;
   background-color: white;
   background-image: url("../images/background_header.svg");
-  position: center;
+  position: relative;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
 }
 
 .nav {
