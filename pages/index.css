@@ -262,7 +262,7 @@
 }
 
 .reservation__submit:hover {
-  animation: fadeOut 1s ease-out;
+  animation: fadeout 2s ease-out;
 }
 
 .form__label_type_checkbox {
