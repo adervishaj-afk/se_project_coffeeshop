@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+There is a tremendous amount of variety in how a page can be customized. This page can be improved by adding a customized feel to the page, changing not only the color schemes but also the placement of the block constituents and adding complex animations.
