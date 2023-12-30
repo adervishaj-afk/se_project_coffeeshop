@@ -33,7 +33,7 @@
   line-height: 30px;
   display: block;
   width: 100%;
-  border: solid #838383;
+  border: solid 1px #838383;
   box-sizing: border-box;
   padding-left: 20px;
 }
